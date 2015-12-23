@@ -1,0 +1,24 @@
+table {
+	margin: auto;
+}
+
+
+table, td {
+	border: 2px solid black;
+	height: 70px;
+	width: 600px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.sign-date {
+	color: red;
+	text-align: center;
+}
+
+.sign-name {
+	color: blue;
+	text-align: center;
+}
